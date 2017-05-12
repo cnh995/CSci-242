@@ -6,8 +6,9 @@ public class Main
 	public static void main(String[] args) throws FileNotFoundException
 	{
 		File dataFile = new File("Data.txt");
-		
 		Scanner inputFile = new Scanner(dataFile);
+		
+
 
 		ArrayList<Vertex> vertices = new ArrayList<Vertex>();
 		ArrayList<Edge>  edges = new ArrayList<Edge>();
@@ -33,14 +34,12 @@ public class Main
 			if(!vertices.contains(dest))
 				vertices.add(dest);
 
-			//edges.add(new Edge(source, dest, Integer.parseInt(parts[2])));
+			edges.add(new Edge(source, dest, Integer.parseInt(parts[2])));
+			i++;
 		}
 
 		inputFile.close();
 
-		System.out.println();
-
-		for(Vertex v : vertices)
-			System.out.println(v);
+		
 	}
 }
