@@ -7,8 +7,6 @@ public class Main
 	{
 		File dataFile = new File("Data.txt");
 		Scanner inputFile = new Scanner(dataFile);
-		
-
 
 		ArrayList<Vertex> vertices = new ArrayList<Vertex>();
 		ArrayList<Edge>  edges = new ArrayList<Edge>();
@@ -40,6 +38,9 @@ public class Main
 
 		inputFile.close();
 
-		
+		for(i = 0; i < vertices.size(); i++)
+		{
+			vertices.get(i).makeEdgeList(edges);
+		}
 	}
 }

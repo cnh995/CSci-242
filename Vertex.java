@@ -2,14 +2,30 @@ import java.util.ArrayList;
 
 public class Vertex {
  
-    public ArrayList<Edge> edgeList;
+    public ArrayList<Edge> edgeList = new ArrayList<Edge>();
     public String city;
     public boolean explored;
     public Vertex(String city){
       this.city = city;
       this.explored = false;
-      this.edgeList = new ArrayList<Edge>();
     }
+
+	public void makeEdgeList(ArrayList<Edge> edges)
+	{
+		for(Edge e : edges)
+		{
+			if(this.equals(e.v) && !edgeList.contains(e))
+			{
+				edgeList.add(e);
+			}
+		}
+	}
+
+	public void printEdgeList()
+	{
+		for(Edge e : edgeList)
+			System.out.println(e);
+	}
 
     public void addEdge(Edge edge){
         if(this.edgeList.contains(edge)){
