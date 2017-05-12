@@ -42,5 +42,18 @@ public class Main
 		{
 			vertices.get(i).makeEdgeList(edges);
 		}
+
+		Graph graph = new Graph(vertices, edges);
+		SSSP sssp = new SSSP(graph);
+		sssp.execute(vertices.get(0));
+		LinkedList<Vertex> path = sssp.getPath(vertices.get(0));
+
+		assertNotNull(path);
+		assertTrue(path.size() > 0);
+
+		for(Vertex v : path)
+		{
+			System.out.println(v);
+		}
 	}
 }
