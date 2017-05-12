@@ -1,18 +1,14 @@
 public class Edge implements Comparable<Edge> {
-    private Vertex v, u;
-    private int weight;
-    /*
-    public Edge(Vertex one, Vertex two, int num){
-        this.v = one;
-        this.u = two;
-        this.weight = num;
-    }*/
+    public Vertex v, u;
+    public boolean explored;
+    public int weight;
     
-    public Edge(Vertex one, Vertex two, int weight){
-        this.v.setCity(one.getCity());
-        this.u.setCity(two.getCity());
-        this.weight = weight;
-        one.addEdge(this);
+    public Edge(Vertex one, Vertex two, int num){
+      this.explored = false;
+      this.v = one;
+      this.u = two;
+      this.weight = num;
+      one.addEdge(this);
     }
      
    /* public Vertex getNeighbor(Vertex current){
@@ -21,24 +17,7 @@ public class Edge implements Comparable<Edge> {
         }
         return (current));
     }*/
-     
-    public Vertex getOne(){
-        return this.v;
-    }
-     
-    public Vertex getTwo(){        
-      return this.u;
-    }
-     
-     
-    public int getWeight(){
-        return this.weight;
-    }
-     
-    public void setWeight(int weight){
-        this.weight = weight;
-    }
-     
+
     public int compareTo(Edge other){
         return this.weight - other.weight;
     }
@@ -47,10 +26,6 @@ public class Edge implements Comparable<Edge> {
         return "({" + v + ", " + u + "}, " + weight + ")";
     }
      
-/*    public int hashCode(){
-        return (v.getLabel() + u.getLabel()).hashCode();
-    }
- */    
     public boolean equals(Object other){
         if(!(other instanceof Edge)){
             return false;
