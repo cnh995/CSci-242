@@ -5,36 +5,50 @@ import java.io.File;
 
 
 public class DFS{
-  public static void main(String[] args){
-    Graph DFSGraph = new Graph();
-    Scanner create = new Scanner(new File("Project.txt"));
-    Vertex out, in;
-    String stOne, stTwo;
-    int next = 1; 
-    int weight;
-    Scanner scan = new Scanner(System.in);
   
-
-
-    while(create.hasNextLine()){
-      Edge connect;
-      next = 1;
-      while(create.hasNext()){
-        if(next == 1){
-          stOne = create.next();
-          System.out.println(stOne);
+  public void DFS(Vertex v){
+    int index =0, weightTot=0;
+    ArrayList Discoveries = new ArrayList<Edge>;
+    ArrayList Back = new ArrayList<Edge>;
+    Edge e;
+    Vertex w;
+    v.explored = true;
+    System.out.println(v.city);
+    while(index<=v.edgeList.size()){
+      e = v.edgeList.get(index);
+      if(e.explored=false){
+        w = e.u;
+        if(w.explored==false){
+          Discoveries.add(e);
+          weightTot+=e.weight;
+          DFS(w);
         }
-        else if(next == 2){
-          stTwo = create.next();
-          System.out.println(stTwo);
+        else{
+          Back.add(e);
         }
-        else if(next == 3){
-          weight = create.nextInt();
-          Edge newEdge = new Edge(in, out, weight);
-        }
-        next++;
-        create.nextLine();
       }
+      e.explored = true;
+      index++;
     }
+    index = 0;
+    while(index<=Discoveries.size()){
+      e = Discoveries.get(index);
+      System.out.println("DISCOVERY EDGES");
+      System.out.println(e.v.city+"   to   "+e.u.city);
+      index++;
+    }
+    index=0;
+    while(index<=Back.size()){
+      e = Back.get(index);
+      System.out.println("BACK EDGES");
+      System.out.println(e.v.city+"   to   "+e.u.city);
+      index++;
+    }
+    println("The total weight traveled over the traverse is:   "+weightTot);
+    return;
+  }
+  
+  public SSSP(Vertex v){
+    
   }
 }
