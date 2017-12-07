@@ -1,0 +1,290 @@
+Washington, D.C.%Baltimore%39
+Orlando%Daytona Beach%58
+Jacksonville%Lake City%65
+Kansas City%Topeka%65
+Wilmington%Myrtle Beach%71
+Grand Forks%Fargo%76
+Milwaukee%Madison%78
+Orlando%Tampa%84
+Chicago%Milwaukee%91
+Montgomery%Birmingham%92
+Charleston, SC%Myrtle Beach%98
+Baltimore%Philadelphia%98
+Norfolk%Richmond%99
+Jacksonville%Daytona Beach%99
+New York City%Philadelphia%99
+Boston%Hartford%101
+Cincinnati%Louisville%102
+Denver%Cheyenne%102
+Boston%Portland, ME%103
+Harrisburg%Philadelphia%105
+Bismarck%Minot%106
+Washington, D.C.%Richmond%108
+Charleston, SC%Savannah%108
+Cincinnati%Indianapolis%108
+Cincinnati%Columbus%109
+Tallahassee%Lake City%111
+Phoenix%Tucson%112
+Portland, OR%Eugene%115
+Helena%Missoula%116
+New York City%Hartford%118
+Los Angeles%San Diego%118
+Las Vegas%St. George%122
+Boise%Twin Falls%123
+Indianapolis%Louisville%124
+Eagle Pass%Laredo%124
+Raleigh%Wilmington%127
+Portland, ME%Bangor%132
+Binghamton%Albany%137
+Memphis%Little Rock%138
+Jacksonville%Savannah%138
+Los Angeles%Barstow%138
+Topeka%Wichita%138
+Phoenix%Flagstaff%141
+Cleveland%Pittsburgh%141
+San Antonio%Eagle Pass%142
+Omaha%Des Moines%143
+Liberal%Oakley%143
+Cleveland%Columbus%146
+Rawlins%Cheyenne%146
+Atlanta%Birmingham%149
+Chicago%Madison%152
+Minneapolis%Duluth%152
+New Orleans%Mobile%153
+San Antonio%Laredo%154
+Las Vegas%Barstow%155
+Miami%Key West%156
+Raleigh%Richmond%156
+Oklahoma City%Wichita%156
+Detroit%Grand Rapids%157
+North Platte%Oakley%158
+Orlando%Lake City%160
+New York City%Albany%160
+Atlanta%Montgomery%161
+Omaha%Topeka%163
+Reno%Winnemucca%164
+Amarillo%Liberal%164
+Buffalo, WY%Billings%168
+Liberal%Lamar%168
+Lake City%Tampa%169
+Kansas City%Springfield%170
+Raleigh%Norfolk%170
+Montgomery%Mobile%171
+Detroit%Cleveland%173
+New York City%Harrisburg%174
+Rapid City%Pierre%174
+Omaha%Sioux Falls%175
+Charlotte%Raleigh%175
+Knoxville%Nashville%177
+Chicago%Indianapolis%177
+Boston%Albany%177
+Indianapolis%Columbus%179
+Portland, OR%Seattle%180
+Charlotte%Myrtle Beach%180
+Nashville%Louisville%180
+San Diego%Barstow%181
+Kansas City%Wichita%183
+New Orleans%Jackson%183
+Pittsburgh%Columbus%184
+Charlotte%Wilmington%188
+Jacksonville%Tampa%190
+Chicago%Grand Rapids%190
+Nashville%Birmingham%192
+San Francisco%Yosemite Village%193
+Buffalo, NY%Cleveland%194
+Bismarck%Fargo%194
+Omaha%Kansas City%194
+Kansas City%Des Moines%197
+Spokane%Missoula%198
+New York City%Binghamton%199
+San Antonio%Houston%201
+Cincinnati%Columbus%202
+Brownsville%Laredo%204
+Detroit%Columbus%206
+Denver%Lamar%206
+Billings%Malta%206
+Washington, D.C.%Norfolk%208
+Tallahassee%Montgomery%208
+Memphis%Nashville%208
+Dallas%Oklahoma City%208
+Bismarck%Pierre%209
+Liberal%Wichita%209
+Grand Forks%Minot%210
+Boise%Riley%210
+Memphis%Jackson%212
+Reno%Yosemite Village%213
+North Platte%Cheyenne%215
+Rapid City%Buffalo, WY%216
+Helena%Old Faithful%216
+Charleston, SC%Charlotte%218
+Pittsburgh%Harrisburg%218
+Little Rock%Springfield%219
+Buffalo, NY%Binghamton%220
+Charleston, W.VA%Pittsburgh%221
+Salt Lake City%Twin Falls%222
+St. Louis%Springfield%224
+Amarillo%Big Spring%224
+San Francisco%Reno%228
+Amarillo%Lamar%228
+Atlanta%Knoxville%230
+Riley%Eugene%230
+Knoxville%Charlotte%231
+Albuquerque%Springerville%233
+Jackson%Birmingham%234
+Washington, D.C.%Philadelphia%235
+Orlando%Miami%236
+Phoenix%Springerville%236
+Buffalo, WY%Rawlins%236
+Dallas%Houston%237
+Memphis%Birmingham%241
+Minneapolis%Fargo%242
+Billings%Helena%243
+Indianapolis%St. Louis%244
+Denver%Oakley%247
+Minneapolis%Sioux Falls%247
+Atlanta%Charlotte%249
+St. Louis%Kansas City%250
+Washington, D.C.%Pittsburgh%251
+Montgomery%Jackson%251
+Tallahassee%Tampa%252
+Atlanta%Nashville%252
+Tallahassee%Mobile%253
+Fargo%Sioux Falls%253
+Knoxville%Cincinnati%254
+Wilmington%Richmond%255
+Twin Falls%Ely%255
+Atlanta%Savannah%256
+Oklahoma City%Liberal%256
+Charleston, W.VA%Louisville%257
+Boise%Winnemucca%257
+Wilmington%Norfolk%259
+St. Louis%Louisville%259
+Fargo%Duluth%259
+Amarillo%Oklahoma City%259
+Charleston, W.VA%Cleveland%260
+Detroit%Cincinnati%260
+Minneapolis%Madison%260
+Flagstaff%Cortez%263
+North Platte%Pierre%264
+Miami%Tampa%266
+Dallas%Big Spring%266
+Little Rock%Jackson%267
+Grand Forks%Duluth%268
+Portland, OR%Riley%268
+Fargo%Minot%268
+Miami%Daytona Beach%270
+El Paso%Albuquerque%270
+San Antonio%Dallas%273
+Albuquerque%Cortez%273
+Tallahassee%Atlanta%275
+Spokane%Seattle%276
+Memphis%Springfield%281
+San Antonio%Brownsville%281
+Las Vegas%Ely%282
+Dallas%Springfield%282
+Memphis%St. Louis%283
+Detroit%Indianapolis%283
+Oklahoma City%Springfield%283
+Minneapolis%Des Moines%286
+Flagstaff%St. George%286
+Las Vegas%Phoenix%288
+Buffalo, NY%Albany%289
+Topeka%Oakley%289
+Denver%North Platte%290
+Rapid City%Cheyenne%290
+Atlanta%Lake City%292
+Helena%Malta%293
+Salt Lake City%Rawlins%294
+Salt Lake City%Ely%294
+Buffalo, WY%Old Faithful%296
+Albuquerque%Amarillo%296
+San Antonio%Big Spring%298
+Omaha%North Platte%298
+Chicago%Detroit%300
+Chicago%St. Louis%302
+Salt Lake City%St. George%305
+Nashville%St. Louis%312
+Los Angeles%Yosemite Village%313
+Charleston, W.VA%Charlotte%314
+Dallas%Little Rock%315
+Little Rock%Houston%315
+Old Faithful%Rawlins%320
+El Paso%Tucson%324
+Albuquerque%Flagstaff%325
+Atlanta%Charleston, SC%329
+Charleston, W.VA%Richmond%331
+Reno%Ely%331
+Little Rock%Oklahoma City%336
+Duluth%Madison%340
+Reno%Riley%342
+El Paso%Big Spring%344
+Chicago%Cleveland%345
+Portland, OR%Crescent City%346
+Salt Lake City%Cortez%348
+Flagstaff%Barstow%348
+Rapid City%Sioux Falls%350
+Little Rock%St. Louis%350
+Cincinnati%St. Louis%353
+Atlanta%Jacksonville%354
+New Orleans%Birmingham%354
+Bismarck%Rapid City%358
+Topeka%Liberal%361
+Knoxville%Raleigh%362
+Chicago%Des Moines%362
+Salt Lake City%Winnemucca%362
+New Orleans%Houston%363
+Brownsville%Houston%365
+Dallas%Amarillo%367
+Phoenix%San Diego%368
+San Francisco%Crescent City%371
+Des Moines%Madison%373
+Boise%Spokane%379
+Washington, D.C.%Charleston, W.VA%380
+San Francisco%Los Angeles%384
+St. Louis%Des Moines%387
+Washington, D.C.%Charlotte%388
+Los Angeles%Phoenix%393
+Albuquerque%Lamar%393
+Atlanta%Memphis%394
+Jacksonville%Charlotte%399
+Minneapolis%Pierre%399
+Portland, OR%Spokane%400
+Twin Falls%Missoula%401
+Knoxville%Charleston, SC%403
+Phoenix%El Paso%404
+Minneapolis%Omaha%409
+Denver%Cortez%411
+El Paso%Amarillo%412
+Detroit%Buffalo, NY%417
+Dallas%Jackson%417
+Bismarck%Billings%418
+Albuquerque%Big Spring%418
+Albuquerque%Liberal%421
+Las Vegas%Salt Lake City%423
+Bismarck%Malta%430
+Portland, OR%Boise%439
+San Francisco%Barstow%442
+Las Vegas%Reno%442
+Denver%Albuquerque%457
+Malta%Minot%457
+Chicago%Nashville%473
+New York City%Cleveland%481
+Salt Lake City%Helena%482
+Salt Lake City%Old Faithful%482
+El Paso%Eagle Pass%484
+Omaha%Liberal%489
+Boise%Seattle%499
+Dallas%New Orleans%509
+Washington, D.C.%Knoxville%512
+Los Angeles%Reno%522
+Washington, D.C.%Cincinnati%523
+Denver%Salt Lake City%529
+Jacksonville%Raleigh%536
+Omaha%Rapid City%539
+San Francisco%Eugene%540
+Minneapolis%St. Louis%540
+San Antonio%El Paso%552
+Chicago%Kansas City%557
+Denver%St. George%648
+Cleveland%Des Moines%677
+El Paso%Houston%746
