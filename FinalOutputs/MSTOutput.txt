@@ -1,0 +1,73 @@
+Following are the edges in the constructed MST
+Vertex Washington, D.C. -- Vertex Baltimore == 39
+Vertex Orlando -- Vertex Daytona Beach == 58
+Vertex Jacksonville -- Vertex Lake City == 65
+Vertex Kansas City -- Vertex Topeka == 65
+Vertex Wilmington -- Vertex Myrtle Beach == 71
+Vertex Grand Forks -- Vertex Fargo == 76
+Vertex Milwaukee -- Vertex Madison == 78
+Vertex Orlando -- Vertex Tampa == 84
+Vertex Chicago -- Vertex Milwaukee == 91
+Vertex Montgomery -- Vertex Birmingham == 92
+Vertex Charleston, SC -- Vertex Myrtle Beach == 98
+Vertex Baltimore -- Vertex Philadelphia == 98
+Vertex Norfolk -- Vertex Richmond == 99
+Vertex New York City -- Vertex Philadelphia == 99
+Vertex Boston -- Vertex Hartford == 101
+Vertex Cincinnati -- Vertex Louisville == 102
+Vertex Denver -- Vertex Cheyenne == 102
+Vertex Boston -- Vertex Portland, ME == 103
+Vertex Harrisburg -- Vertex Philadelphia == 105
+Vertex Bismarck -- Vertex Minot == 106
+Vertex Charleston, SC -- Vertex Savannah == 108
+Vertex Cincinnati -- Vertex Indianapolis == 108
+Vertex Cincinnati -- Vertex Columbus == 109
+Vertex Tallahassee -- Vertex Lake City == 111
+Vertex Phoenix -- Vertex Tucson == 112
+Vertex Portland, OR -- Vertex Eugene == 115
+Vertex Helena -- Vertex Missoula == 116
+Vertex Los Angeles -- Vertex San Diego == 118
+Vertex Las Vegas -- Vertex St. George == 122
+Vertex Boise -- Vertex Twin Falls == 123
+Vertex Eagle Pass -- Vertex Laredo == 124
+Vertex Raleigh -- Vertex Wilmington == 127
+Vertex Portland, ME -- Vertex Bangor == 132
+Vertex Binghamton -- Vertex Albany == 137
+Vertex Memphis -- Vertex Little Rock == 138
+Vertex Los Angeles -- Vertex Barstow == 138
+Vertex Topeka -- Vertex Wichita == 138
+Vertex Phoenix -- Vertex Flagstaff == 141
+Vertex Cleveland -- Vertex Pittsburgh == 141
+Vertex San Antonio -- Vertex Eagle Pass == 142
+Vertex Omaha -- Vertex Des Moines == 143
+Vertex Liberal -- Vertex Oakley == 143
+Vertex Rawlins -- Vertex Cheyenne == 146
+Vertex Atlanta -- Vertex Birmingham == 149
+Vertex Minneapolis -- Vertex Duluth == 152
+Vertex New Orleans -- Vertex Mobile == 153
+Vertex Miami -- Vertex Key West == 156
+Vertex Oklahoma City -- Vertex Wichita == 156
+Vertex Detroit -- Vertex Grand Rapids == 157
+Vertex North Platte -- Vertex Oakley == 158
+Vertex Reno -- Vertex Winnemucca == 164
+Vertex Amarillo -- Vertex Liberal == 164
+Vertex Buffalo, WY -- Vertex Billings == 168
+Vertex Liberal -- Vertex Lamar == 168
+Vertex Kansas City -- Vertex Springfield == 170
+Vertex Rapid City -- Vertex Pierre == 174
+Vertex Omaha -- Vertex Sioux Falls == 175
+Vertex Charlotte -- Vertex Raleigh == 175
+Vertex Knoxville -- Vertex Nashville == 177
+Vertex Portland, OR -- Vertex Seattle == 180
+Vertex New Orleans -- Vertex Jackson == 183
+Vertex San Francisco -- Vertex Yosemite Village == 193
+Vertex Buffalo, NY -- Vertex Cleveland == 194
+Vertex Spokane -- Vertex Missoula == 198
+Vertex San Antonio -- Vertex Houston == 201
+Vertex Brownsville -- Vertex Laredo == 204
+Vertex Billings -- Vertex Malta == 206
+Vertex Dallas -- Vertex Oklahoma City == 208
+Vertex Boise -- Vertex Riley == 210
+
+Total weight of MST: 9257
+Number of Edges in MST: 69

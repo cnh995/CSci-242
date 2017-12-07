@@ -1,0 +1,116 @@
+Towns traversed through DFS: Grand Forks
+Towns traversed through DFS: Fargo
+Towns traversed through DFS: Bismarck
+Towns traversed through DFS: Minot
+Towns traversed through DFS: Malta
+Towns traversed through DFS: Billings
+Towns traversed through DFS: Buffalo, WY
+Towns traversed through DFS: Rapid City
+Towns traversed through DFS: Pierre
+Towns traversed through DFS: North Platte
+Towns traversed through DFS: Oakley
+Towns traversed through DFS: Liberal
+Towns traversed through DFS: Amarillo
+Towns traversed through DFS: Big Spring
+Towns traversed through DFS: Dallas
+Towns traversed through DFS: Oklahoma City
+Towns traversed through DFS: Wichita
+Towns traversed through DFS: Topeka
+Towns traversed through DFS: Kansas City
+Towns traversed through DFS: Springfield
+Towns traversed through DFS: Little Rock
+Towns traversed through DFS: Memphis
+Towns traversed through DFS: Nashville
+Towns traversed through DFS: Knoxville
+Towns traversed through DFS: Atlanta
+Towns traversed through DFS: Birmingham
+Towns traversed through DFS: Montgomery
+Towns traversed through DFS: Mobile
+Towns traversed through DFS: New Orleans
+Towns traversed through DFS: Jackson
+Towns traversed through DFS: Houston
+Towns traversed through DFS: San Antonio
+Towns traversed through DFS: Eagle Pass
+Towns traversed through DFS: Laredo
+Towns traversed through DFS: Brownsville
+Towns traversed through DFS: El Paso
+Towns traversed through DFS: Albuquerque
+Towns traversed through DFS: Springerville
+Towns traversed through DFS: Phoenix
+Towns traversed through DFS: Tucson
+Towns traversed through DFS: Flagstaff
+Towns traversed through DFS: Cortez
+Towns traversed through DFS: Salt Lake City
+Towns traversed through DFS: Twin Falls
+Towns traversed through DFS: Boise
+Towns traversed through DFS: Riley
+Towns traversed through DFS: Eugene
+Towns traversed through DFS: Portland, OR
+Towns traversed through DFS: Seattle
+Towns traversed through DFS: Spokane
+Towns traversed through DFS: Missoula
+Towns traversed through DFS: Helena
+Towns traversed through DFS: Old Faithful
+Towns traversed through DFS: Rawlins
+Towns traversed through DFS: Cheyenne
+Towns traversed through DFS: Denver
+Towns traversed through DFS: Lamar
+Towns traversed through DFS: St. George
+Towns traversed through DFS: Las Vegas
+Towns traversed through DFS: Barstow
+Towns traversed through DFS: Los Angeles
+Towns traversed through DFS: San Diego
+Towns traversed through DFS: Yosemite Village
+Towns traversed through DFS: San Francisco
+Towns traversed through DFS: Reno
+Towns traversed through DFS: Winnemucca
+Towns traversed through DFS: Ely
+Towns traversed through DFS: Crescent City
+Towns traversed through DFS: Tallahassee
+Towns traversed through DFS: Lake City
+Towns traversed through DFS: Jacksonville
+Towns traversed through DFS: Daytona Beach
+Towns traversed through DFS: Orlando
+Towns traversed through DFS: Tampa
+Towns traversed through DFS: Miami
+Towns traversed through DFS: Key West
+Towns traversed through DFS: Savannah
+Towns traversed through DFS: Charleston, SC
+Towns traversed through DFS: Myrtle Beach
+Towns traversed through DFS: Wilmington
+Towns traversed through DFS: Raleigh
+Towns traversed through DFS: Richmond
+Towns traversed through DFS: Norfolk
+Towns traversed through DFS: Washington, D.C.
+Towns traversed through DFS: Baltimore
+Towns traversed through DFS: Philadelphia
+Towns traversed through DFS: New York City
+Towns traversed through DFS: Hartford
+Towns traversed through DFS: Boston
+Towns traversed through DFS: Portland, ME
+Towns traversed through DFS: Bangor
+Towns traversed through DFS: Albany
+Towns traversed through DFS: Binghamton
+Towns traversed through DFS: Buffalo, NY
+Towns traversed through DFS: Cleveland
+Towns traversed through DFS: Pittsburgh
+Towns traversed through DFS: Columbus
+Towns traversed through DFS: Cincinnati
+Towns traversed through DFS: Louisville
+Towns traversed through DFS: Indianapolis
+Towns traversed through DFS: Chicago
+Towns traversed through DFS: Milwaukee
+Towns traversed through DFS: Madison
+Towns traversed through DFS: Minneapolis
+Towns traversed through DFS: Duluth
+Towns traversed through DFS: Sioux Falls
+Towns traversed through DFS: Omaha
+Towns traversed through DFS: Des Moines
+Towns traversed through DFS: St. Louis
+Towns traversed through DFS: Grand Rapids
+Towns traversed through DFS: Detroit
+Towns traversed through DFS: Charleston, W.VA
+Towns traversed through DFS: Charlotte
+Towns traversed through DFS: Harrisburg
+
+Total Weight: 20856

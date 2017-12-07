@@ -1,0 +1,53 @@
+Value of node 1520
+Route to from destination to start: Seattle To Spokane
+Route to from destination to start: Spokane To Missoula
+Route to from destination to start: Missoula To Helena
+Route to from destination to start: Helena To Billings
+Route to from destination to start: Billings To Bismarck
+Route to from destination to start: Bismarck To Fargo
+Route to from destination to start: Fargo To Grand Forks
+
+
+Value of node 1337
+Route to from destination to start: San Diego To Los Angeles
+Route to from destination to start: Los Angeles To San Francisco
+Route to from destination to start: San Francisco To Eugene
+Route to from destination to start: Eugene To Portland, OR
+Route to from destination to start: Portland, OR To Seattle
+
+Value of node 1518
+Route to from destination to start: Houston To El Paso
+Route to from destination to start: El Paso To Phoenix
+Route to from destination to start: Phoenix To San Diego
+
+Value of node 1432
+Route to from destination to start: Key West To Miami
+Route to from destination to start: Miami To Orlando
+Route to from destination to start: Orlando To Lake City
+Route to from destination to start: Lake City To Tallahassee
+Route to from destination to start: Tallahassee To Mobile
+Route to from destination to start: Mobile To New Orleans
+Route to from destination to start: New Orleans To Houston
+
+Value of node 1548
+Route to from destination to start: New York City To Philadelphia
+Route to from destination to start: Philadelphia To Baltimore
+Route to from destination to start: Baltimore To Washington, D.C.
+Route to from destination to start: Washington, D.C. To Charlotte
+Route to from destination to start: Charlotte To Jacksonville
+Route to from destination to start: Jacksonville To Daytona Beach
+Route to from destination to start: Daytona Beach To Miami
+Route to from destination to start: Miami To Key West
+
+Value of node 826
+Route to from destination to start: Chicago To Cleveland
+Route to from destination to start: Cleveland To New York City
+
+Value of node 760
+Route to from destination to start: Grand Forks To Duluth
+Route to from destination to start: Duluth To Madison
+Route to from destination to start: Madison To Chicago
+
+Toal Distance
+8788
+
